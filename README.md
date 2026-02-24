@@ -1,5 +1,5 @@
 # TIP-GENERATOR
-this set of code generates a tip!!
+this set of code tells who should pay the bill!!
 
 this is used to predict who pays the bill!!
 
